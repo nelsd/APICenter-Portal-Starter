@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "apicenterapim.data.eastus.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+      "clientId": "b51b6427-2750-4055-9ed1-5db315b1a788",
+      "tenantId": "45f07720-3184-480f-91f7-aef3872478f6",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
